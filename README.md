@@ -1,5 +1,5 @@
 # parcel-starter
-Vue.js with Parcel.js boilerplate
+Vue.js with Parcel.js boilerplate with:
 ```javascript
 Vuex, vue-router, tailwind.css
 ```
