@@ -13,6 +13,8 @@
   },
   "devDependencies": {
     "@vue/component-compiler-utils": "^2.2.0",
+    "autoprefixer": "^9.2.1",
+    "tailwindcss": "^0.6.6",
     "vue-template-compiler": "^2.5.17"
   },
   "scripts": {

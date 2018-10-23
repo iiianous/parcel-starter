@@ -1,5 +1,5 @@
 <template>
-    <div>
+    <div class="h-full">
         <h1>{{msg}}</h1>
     </div>
 </template>

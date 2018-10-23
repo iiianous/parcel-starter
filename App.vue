@@ -5,10 +5,10 @@
 </template>
 
 <style lang="scss">
-// @import './assets/tailwind.css';
+@import './assets/scss/tailwind.css';
 
 html, body, #app {
-  min-height: 100%;
+  height: 100%;
 }
 
 #app {
