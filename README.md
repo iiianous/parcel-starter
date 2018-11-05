@@ -1,7 +1,7 @@
 # parcel-starter
 Vue.js with Parcel.js boilerplate plus:
 ```javascript
-Vuex, vue-router, tailwind.css
+vuex, vue-router, tailwind
 ```
 
 ## Install the package,
