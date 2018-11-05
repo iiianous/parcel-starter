@@ -1,5 +1,5 @@
 <template>
-  <ul>
+  <ul class="inline-block">
     <li
       v-for="(item, index) in lists"
       :key="index"
